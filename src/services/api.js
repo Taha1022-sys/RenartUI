@@ -1,7 +1,7 @@
 import axios from 'axios';
 
 const api = axios.create({
-  baseURL: process.env.REACT_APP_API_URL || 'https://localhost:7133/api',
+  baseURL: process.env.REACT_APP_API_URL || 'https://renart-tahafurkanteke-ergbd4drcjaja7f5.francecentral-01.azurewebsites.net/api',
   timeout: 15000,
   headers: {
     'Content-Type': 'application/json',
