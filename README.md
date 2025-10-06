@@ -2,7 +2,7 @@
 
 RenartUI is a modern React interface application where you can filter and review products.
 
-[For Testing - RenartUI)(https://renart-ui-tahafurkanteke.vercel.app)
+[For testing — RenartUI](https://renart-ui-tahafurkanteke.vercel.app)
 
 ## Features
 - List products
@@ -68,7 +68,7 @@ MIT
 
 RenartUI, ürünleri filtreleyip inceleyebileceğiniz modern bir React arayüz uygulamasıdır.
 
-[Test için - RenartUI](https://renart-ui-tahafurkanteke.vercel.app)
+[Test için — RenartUI](https://renart-ui-tahafurkanteke.vercel.app)
 
 ## Özellikler
 - Ürünleri listeleme
