@@ -92,7 +92,6 @@ export const productService = {
     }
   },
 
-
 };
 
 export { api };
